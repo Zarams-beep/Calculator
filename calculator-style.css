@@ -13,6 +13,8 @@
     margin-top: 75px;
     height: 350px;
     padding: 15px 15px;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .style-seven{
@@ -53,5 +55,7 @@
     border-bottom: 1px solid rgb(29, 28, 28);
     width: 18rem;
     color: white;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
 }
 
